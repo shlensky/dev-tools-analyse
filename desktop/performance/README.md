@@ -5,7 +5,7 @@
 ## Измерить время в миллисекундах от начала навигации до событий 
 
 * First Paint: [711.7 ms](./first-paint.png) 
-* First Meaningful Paint: [776 ms](./first-meaningful-paint.png)
+* First Meaningful Paint: [1301.6 ms](./first-meaningful-paint.png)
 * DOM Content Loaded: [1928.4 ms](./dom-content-loaded.png)
 * Load: [4644.4 ms](./load.png)
 
