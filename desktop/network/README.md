@@ -11,7 +11,7 @@
 
 есть не минимизированные ресурсы, например
 * https://lifehacker.ru/wp-content/themes/lifehacker/static/js/vendors.min.js?ver=1.3.12
-несмотря на название, файл не минимизирован.
+несмотря на название, файл неполностью минимизирован.
 
 Еще несколько не минимизированных файлов:
 * https://lifehacker.ru/wp-content/plugins/lh-twister/assets/app.js?ver=7
